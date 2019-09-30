@@ -1,0 +1,8 @@
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\bin\Debug\PSTBacktupUtilityCore.dll
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\bin\Debug\PSTBacktupUtilityCore.pdb
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\bin\Debug\PSTBacktupUtilityCore.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Debug\PSTBacktupUtilityCore.Resources.resources
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Debug\PSTBacktupUtilityCore.vbproj.GenerateResource.Cache
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Debug\PSTBacktupUtilityCore.dll
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Debug\PSTBacktupUtilityCore.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Debug\PSTBacktupUtilityCore.pdb

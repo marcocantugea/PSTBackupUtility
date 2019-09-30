@@ -1,0 +1,8 @@
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\bin\Release\PSTBacktupUtilityCore.dll
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\bin\Release\PSTBacktupUtilityCore.pdb
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\bin\Release\PSTBacktupUtilityCore.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Release\PSTBacktupUtilityCore.Resources.resources
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Release\PSTBacktupUtilityCore.vbproj.GenerateResource.Cache
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Release\PSTBacktupUtilityCore.dll
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Release\PSTBacktupUtilityCore.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\core\PSTBacktupUtilityCore\obj\Release\PSTBacktupUtilityCore.pdb

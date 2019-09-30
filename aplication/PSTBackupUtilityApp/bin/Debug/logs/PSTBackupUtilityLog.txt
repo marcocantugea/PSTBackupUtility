@@ -1,0 +1,87 @@
+30-09-2019 08:57:38 >> Opening of the log file. 
+
+30-09-2019 08:58:21 >> Changing configuration.
+30-09-2019 08:58:21 >> Changing configuration BackuptimeInDays from 2 to 1
+30-09-2019 08:58:21 >> Changing configuration BackupStarTime from 01:00:00 to 00:00:00
+30-09-2019 08:58:21 >> Changing configuration BackupDestination from E:\bk\destination to E:\bk\destination
+30-09-2019 08:58:21 >> Changing configuration LoggerPath from C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug\logs to C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug\logs
+30-09-2019 08:58:21 >> Changing configuration CompressorPath from C:\Program Files\WinRAR to C:\Program Files\WinRAR
+30-09-2019 08:58:21 >> Changing configuration NumBackupSave from 2 to 2
+30-09-2019 08:58:21 >> Changing configuration BackupSource from E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\toolpusher@grm4.com - toolpusher.pst to E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\toolpusher@grm4.com - toolpusher.pst
+30-09-2019 08:58:21 >> DTO file configration saved
+
+30-09-2019 08:59:57 >> PST Backup utility open. 
+
+30-09-2019 08:59:57 >> Opening Log Object in the application. 
+
+
+30-09-2019 09:20:12 >> PST Backup utility open. 
+
+30-09-2019 09:20:12 >> Opening Log Object in the application. 
+
+
+30-09-2019 09:20:30 >> Creating a backup of E:\bk\source\2018-8-2\Outlook.pst
+30-09-2019 09:20:30 >> Start manually backup process.
+30-09-2019 09:20:30 >> Running compres command > C:\Program Files\WinRAR\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "E:\bk\destination\LM4PCVIT01-Outook33-09302019092030" "E:\bk\source\2018-8-2\Outlook.pst"
+
+30-09-2019 09:24:16 >> PST Backup utility open. 
+
+30-09-2019 09:24:16 >> Opening Log Object in the application. 
+
+
+30-09-2019 09:24:25 >> Creating a backup of E:\bk\source\2018-8-2\Outlook.pst
+30-09-2019 09:24:25 >> Start manually backup process.
+30-09-2019 09:24:25 >> Running compres command > C:\Program Files\WinRAR\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "E:\bk\destination\LM4PCVIT01-Outook33-09302019092425" "E:\bk\source\2018-8-2\Outlook.pst"
+
+30-09-2019 09:26:08 >> Backup Process manually cancelled.
+30-09-2019 09:26:08 >> Delete not completed backup > E:\bk\destination\LM4PCVIT01-Outook33-09302019092425.rar
+
+30-09-2019 09:26:32 >> Changing configuration.
+30-09-2019 09:26:32 >> Changing configuration BackuptimeInDays from 1 to 1
+30-09-2019 09:26:32 >> Changing configuration BackupStarTime from 00:00:00 to 00:00:00
+30-09-2019 09:26:32 >> Changing configuration BackupDestination from E:\bk\destination to E:\bk\destination
+30-09-2019 09:26:32 >> Changing configuration LoggerPath from C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug\logs to C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug\logs
+30-09-2019 09:26:32 >> Changing configuration CompressorPath from C:\Program Files\WinRAR to C:\Program Files\WinRAR
+30-09-2019 09:26:32 >> Changing configuration NumBackupSave from 2 to 2
+30-09-2019 09:26:32 >> Changing configuration BackupSource from E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\toolpusher@grm4.com - toolpusher.pst to E:\bk\source\toolpusher@grm4.com - toolpusher.pst
+30-09-2019 09:26:32 >> DTO file configration saved
+
+30-09-2019 09:26:39 >> Creating a backup of E:\bk\source\toolpusher@grm4.com - toolpusher.pst
+30-09-2019 09:26:39 >> Start manually backup process.
+30-09-2019 09:26:39 >> Running compres command > C:\Program Files\WinRAR\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "E:\bk\destination\LM4PCVIT01-tooher49-09302019092639" "E:\bk\source\toolpusher@grm4.com - toolpusher.pst"
+
+30-09-2019 09:27:57 >> Compress file finished >E:\bk\destination\LM4PCVIT01-tooher49-09302019092639.rar
+
+30-09-2019 09:28:01 >> Backup Process Finished.
+30-09-2019 09:28:01 >> Updates the LastBackupDate configuration from empty to 2019-09-30 09:28:01
+
+30-09-2019 09:38:21 >> PST Backup utility open. 
+
+30-09-2019 09:38:21 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:05:42 >> PST Backup utility open. 
+
+30-09-2019 10:05:42 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:28:48 >> PST Backup utility open. 
+
+30-09-2019 10:28:48 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:29:51 >> PST Backup utility open. 
+
+30-09-2019 10:29:51 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:30:50 >> PST Backup utility open. 
+
+30-09-2019 10:30:50 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:31:35 >> PST Backup utility open. 
+
+30-09-2019 10:31:35 >> Opening Log Object in the application. 
+
+

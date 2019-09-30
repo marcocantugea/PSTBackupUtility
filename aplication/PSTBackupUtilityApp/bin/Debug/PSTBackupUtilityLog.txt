@@ -1,0 +1,89 @@
+30-09-2019 08:46:13 >> Opening of the log file. 
+30-09-2019 08:54:42 >> Opening Log Object in the application. 
+
+30-09-2019 08:56:32 >> Changing configuration.30-09-2019 08:56:32 >> Changing configuration BackuptimeInDays from 3 to 230-09-2019 08:56:33 >> Changing configuration BackupStarTime from 00:00:00 to 01:00:0030-09-2019 08:56:33 >> Changing configuration BackupDestination from C:\bk to E:\bk\destination30-09-2019 08:56:33 >> Changing configuration LoggerPath from C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug to C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug\logs30-09-2019 08:56:33 >> Changing configuration CompressorPath from C:\Program Files\WinRAR to C:\Program Files\WinRAR30-09-2019 08:56:33 >> Changing configuration NumBackupSave from 1 to 230-09-2019 08:56:33 >> Changing configuration BackupSource from E:\bk\source\2018-8-2\Outlook.pst to E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\toolpusher@grm4.com - toolpusher.pst30-09-2019 08:56:33 >> DTO file configration saved
+30-09-2019 10:41:46 >> PST Backup utility open. 
+
+30-09-2019 10:41:46 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:42:42 >> PST Backup utility open. 
+
+30-09-2019 10:42:42 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:44:20 >> PST Backup utility open. 
+
+30-09-2019 10:44:20 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:48:22 >> PST Backup utility open. 
+
+30-09-2019 10:48:22 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:50:54 >> PST Backup utility open. 
+
+30-09-2019 10:50:54 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:51:43 >> PST Backup utility open. 
+
+30-09-2019 10:51:43 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:52:09 >> PST Backup utility open. 
+
+30-09-2019 10:52:09 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:53:00 >> PST Backup utility open. 
+
+30-09-2019 10:53:00 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:54:22 >> PST Backup utility open. 
+
+30-09-2019 10:54:22 >> Opening Log Object in the application. 
+
+
+30-09-2019 10:55:23 >> PST Backup utility open. 
+
+30-09-2019 10:55:23 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:00:02 >> PST Backup utility open. 
+
+30-09-2019 11:00:02 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:01:11 >> PST Backup utility open. 
+
+30-09-2019 11:01:11 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:03:18 >> PST Backup utility open. 
+
+30-09-2019 11:03:18 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:06:54 >> PST Backup utility open. 
+
+30-09-2019 11:06:54 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:07:59 >> PST Backup utility open. 
+
+30-09-2019 11:07:59 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:09:02 >> PST Backup utility open. 
+
+30-09-2019 11:09:02 >> Opening Log Object in the application. 
+
+
+30-09-2019 11:09:35 >> PST Backup utility open. 
+
+30-09-2019 11:09:35 >> Opening Log Object in the application. 
+
+
