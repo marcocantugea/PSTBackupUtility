@@ -1,0 +1,14 @@
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBackupUpdater.exe.config
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBackupUpdater.exe
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBackupUpdater.pdb
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBackupUpdater.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBacktupUtilityCore.dll
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBacktupUtilityCore.pdb
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\bin\Debug\PSTBacktupUtilityCore.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.vbprojResolveAssemblyReference.cache
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.Resources.resources
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.Updater.resources
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.vbproj.GenerateResource.Cache
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.exe
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.xml
+C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityUpdater\PSTBackupUpdater\obj\Debug\PSTBackupUpdater.pdb

@@ -1,0 +1,257 @@
+01-10-2019 12:56:42 >> PST Backup utility open. 
+
+01-10-2019 12:56:42 >> Opening of the log file. 
+
+01-10-2019 01:27:44 >> PST Backup utility open. 
+
+01-10-2019 01:27:44 >> Opening Log Object in the application. 
+
+
+03-10-2019 01:27:59 >> Running Schedule backup.
+
+01-10-2019 01:43:03 >> Running backup of file >C:\Users\LM4PCVIT01\AppData\Local\Temp\test.pst
+01-10-2019 01:43:03 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tesest47-10012019014303" "C:\Users\LM4PCVIT01\AppData\Local\Temp\test.pst"
+
+01-10-2019 01:43:03 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tesest47-10012019014303.rar
+01-10-2019 01:43:07 >> Creating a backup of C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+01-10-2019 01:43:07 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Outook93-10012019014307" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+01-10-2019 01:43:08 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Outook93-10012019014307.rar
+01-10-2019 01:43:11 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+01-10-2019 01:43:11 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Outook55-10012019014311" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+01-10-2019 01:43:12 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Outook55-10012019014311.rar
+01-10-2019 01:43:15 >> Creating a backup of E:\toolpusher@grddm4.com - toolpusher.pst
+01-10-2019 01:43:15 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher41-10012019014315" "E:\toolpusher@grddm4.com - toolpusher.pst"
+
+01-10-2019 01:44:28 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher41-10012019014315.rar
+01-10-2019 01:44:31 >> Creating a backup of E:\toolpusher@grm4.com - toolpusher.pst
+01-10-2019 01:44:31 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher39-10012019014431" "E:\toolpusher@grm4.com - toolpusher.pst"
+
+01-10-2019 01:45:45 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher39-10012019014431.rar
+01-10-2019 01:45:48 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$I1MAQS8.pst
+01-10-2019 01:45:48 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$I1QS873-10012019014548" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$I1MAQS8.pst"
+
+01-10-2019 01:45:49 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$I1QS873-10012019014548.rar
+01-10-2019 01:45:52 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IKKZ2YW.pst
+01-10-2019 01:45:52 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$IK2YW73-10012019014552" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IKKZ2YW.pst"
+
+01-10-2019 01:45:53 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$IK2YW73-10012019014552.rar
+01-10-2019 01:45:56 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ILOPFPV.pst
+01-10-2019 01:45:56 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$ILFPV73-10012019014556" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ILOPFPV.pst"
+
+01-10-2019 01:45:57 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$ILFPV73-10012019014556.rar
+01-10-2019 01:46:00 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IQHTQE0.pst
+01-10-2019 01:46:00 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$IQQE073-10012019014600" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IQHTQE0.pst"
+
+01-10-2019 01:46:01 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$IQQE073-10012019014600.rar
+01-10-2019 01:46:04 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ISZ700Q.pst
+01-10-2019 01:46:04 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$IS00Q73-10012019014604" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ISZ700Q.pst"
+
+01-10-2019 01:46:05 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$IS00Q73-10012019014604.rar
+01-10-2019 01:46:08 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$R1MAQS8.pst
+01-10-2019 01:46:08 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$R1QS873-10012019014608" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$R1MAQS8.pst"
+
+01-10-2019 01:47:22 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$R1QS873-10012019014608.rar
+01-10-2019 01:47:25 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RKKZ2YW.pst
+01-10-2019 01:47:25 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RK2YW73-10012019014725" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RKKZ2YW.pst"
+
+01-10-2019 01:48:40 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RK2YW73-10012019014725.rar
+01-10-2019 01:48:43 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RLOPFPV.pst
+01-10-2019 01:48:43 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RLFPV73-10012019014843" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RLOPFPV.pst"
+
+01-10-2019 01:50:16 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RLFPV73-10012019014843.rar
+01-10-2019 01:50:19 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RQHTQE0.pst
+01-10-2019 01:50:19 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RQQE073-10012019015019" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RQHTQE0.pst"
+
+01-10-2019 01:51:39 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RQQE073-10012019015019.rar
+01-10-2019 01:51:42 >> Creating a backup of E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RSZ700Q.pst
+01-10-2019 01:51:42 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RS00Q73-10012019015142" "E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RSZ700Q.pst"
+
+01-10-2019 01:53:10 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-$RS00Q73-10012019015142.rar
+
+01-10-2019 01:53:13 >> Creating a backup of E:\bk\recover\Outlook.pst
+01-10-2019 01:53:13 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Outook25-10012019015313" "E:\bk\recover\Outlook.pst"
+
+01-10-2019 01:53:14 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Outook25-10012019015313.rar
+
+01-10-2019 01:53:17 >> Creating a backup of E:\bk\recover\toolpusher@grm4.com - toolpusher.pst
+01-10-2019 01:53:17 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher50-10012019015317" "E:\bk\recover\toolpusher@grm4.com - toolpusher.pst"
+
+01-10-2019 01:54:45 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher50-10012019015317.rar
+01-10-2019 01:54:49 >> Creating a backup of E:\bk\source\toolpusher@grm4.com - toolpusher.pst
+01-10-2019 01:54:49 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher49-10012019015449" "E:\bk\source\toolpusher@grm4.com - toolpusher.pst"
+
+01-10-2019 01:56:12 >> Compress file finished >C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-tooher49-10012019015449.rar
+01-10-2019 01:56:15 >> Creating a backup of E:\bk\source\2018-12-2\Personal Folders(1) may 2014.pst
+01-10-2019 01:56:15 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Per01455-10012019015615" "E:\bk\source\2018-12-2\Personal Folders(1) may 2014.pst"
+
+01-10-2019 05:01:22 >> Backup Process manually cancelled.
+01-10-2019 05:01:22 >> Delete not completed backup > C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release\LM4PCVIT01-Per01455-10012019015615.rar
+
+03-10-2019 04:57:31 >> PST Backup utility open. 
+
+03-10-2019 04:57:31 >> Opening Log Object in the application. 
+
+
+03-10-2019 04:58:30 >> Changing configuration.
+03-10-2019 04:58:30 >> Changing configuration BackuptimeInDays from 2 to 2
+03-10-2019 04:58:30 >> Changing configuration BackupStarTime from 01:00:00 to 01:00:00
+03-10-2019 04:58:30 >> Changing configuration BackupDestination from C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release to C:\bk
+03-10-2019 04:58:30 >> Changing configuration LoggerPath from C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release to C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release
+03-10-2019 04:58:30 >> Changing configuration CompressorPath from C:\Program Files\WINRAR\ to C:\Program Files\WINRAR\
+03-10-2019 04:58:30 >> Changing configuration NumBackupSave from 2 to 2
+03-10-2019 04:58:30 >> Changing configuration BackupSource from C:\Users\LM4PCVIT01\AppData\Local\Temp\test.pst|C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst|C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst|E:\toolpusher@grddm4.com - toolpusher.pst|E:\toolpusher@grm4.com - toolpusher.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$I1MAQS8.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IKKZ2YW.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ILOPFPV.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IQHTQE0.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ISZ700Q.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$R1MAQS8.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RKKZ2YW.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RLOPFPV.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RQHTQE0.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RSZ700Q.pst|E:\bk\recover\Outlook.pst|E:\bk\recover\toolpusher@grm4.com - toolpusher.pst|E:\bk\source\toolpusher@grm4.com - toolpusher.pst|E:\bk\source\2018-12-2\Personal Folders(1) may 2014.pst|E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\2018-9-2\Outlelect interno.pst|E:\bk\source\smco\Outlook.pst to C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst|C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst|E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\smco\Outlook.pst
+03-10-2019 04:58:30 >> DTO file configration saved
+
+03-10-2019 04:59:08 >> PST Backup utility open. 
+
+03-10-2019 04:59:08 >> Opening Log Object in the application. 
+
+
+03-10-2019 04:59:36 >> Creating a backup of C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+03-10-2019 04:59:42 >> Start manually backup process.
+03-10-2019 04:59:42 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook93-10032019045942" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 04:59:43 >> Compress file finished >C:\bk\LM4PCVIT01-Outook93-10032019045942.rar
+03-10-2019 04:59:46 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+03-10-2019 04:59:46 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook55-10032019045946" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 04:59:47 >> Compress file finished >C:\bk\LM4PCVIT01-Outook55-10032019045946.rar
+03-10-2019 04:59:50 >> Creating a backup of E:\bk\source\2018-8-2\Outlook.pst
+03-10-2019 04:59:50 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook33-10032019045950" "E:\bk\source\2018-8-2\Outlook.pst"
+
+03-10-2019 05:04:10 >> PST Backup utility open. 
+
+03-10-2019 05:04:10 >> Opening Log Object in the application. 
+
+
+03-10-2019 05:04:18 >> Creating a backup of C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+03-10-2019 05:04:18 >> Start manually backup process.
+03-10-2019 05:04:18 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook93-10032019050418" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:04:19 >> Compress file finished >C:\bk\LM4PCVIT01-Outook93-10032019050418.rar
+03-10-2019 05:04:19 >> Removing old backups > LM4PCVIT01-Outook93-10032019043805.rar
+03-10-2019 05:04:22 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+03-10-2019 05:04:22 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook55-10032019050422" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:04:23 >> Compress file finished >C:\bk\LM4PCVIT01-Outook55-10032019050422.rar
+03-10-2019 05:04:23 >> Removing old backups > LM4PCVIT01-Outook55-10032019043809.rar
+
+03-10-2019 05:04:26 >> Error creating the backup , not enough space on destination disk.
+
+03-10-2019 05:04:27 >> Error creating the backup , not enough space on destination disk.
+
+03-10-2019 05:04:28 >> Error in module MainMenu:Timer_RunBackup_Tick:Error > Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+03-10-2019 05:04:29 >> Backup Process Finished.
+03-10-2019 05:04:29 >> Updates the LastBackupDate configuration from empty to 2019-10-03 17:04:29
+
+03-10-2019 05:04:37 >> Creating a backup of C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+03-10-2019 05:04:37 >> Start manually backup process.
+03-10-2019 05:04:37 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook93-10032019050437" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:04:38 >> Compress file finished >C:\bk\LM4PCVIT01-Outook93-10032019050437.rar
+03-10-2019 05:04:38 >> Removing old backups > LM4PCVIT01-Outook93-10032019043957.rar
+03-10-2019 05:04:41 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+03-10-2019 05:04:41 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook55-10032019050441" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:04:42 >> Compress file finished >C:\bk\LM4PCVIT01-Outook55-10032019050441.rar
+03-10-2019 05:04:42 >> Removing old backups > LM4PCVIT01-Outook55-10032019044001.rar
+03-10-2019 05:04:45 >> Error creating the backup , not enough space on destination disk.
+
+03-10-2019 05:04:45 >> Error creating the backup , not enough space on destination disk.
+
+03-10-2019 05:04:46 >> Error in module MainMenu:Timer_RunBackup_Tick:Error > Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+03-10-2019 05:04:47 >> Backup Process Finished.
+03-10-2019 05:04:47 >> Updates the LastBackupDate configuration from 2019-10-03 17:04:29 to 2019-10-03 17:04:47
+
+03-10-2019 05:05:07 >> Creating a backup of C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+03-10-2019 05:05:07 >> Start manually backup process.
+03-10-2019 05:05:07 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook93-10032019050507" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:05:08 >> Compress file finished >C:\bk\LM4PCVIT01-Outook93-10032019050507.rar
+03-10-2019 05:05:08 >> Removing old backups > LM4PCVIT01-Outook93-10032019045942.rar
+03-10-2019 05:05:11 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+03-10-2019 05:05:11 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook55-10032019050511" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:05:12 >> Compress file finished >C:\bk\LM4PCVIT01-Outook55-10032019050511.rar
+03-10-2019 05:05:12 >> Removing old backups > LM4PCVIT01-Outook55-10032019045946.rar
+
+03-10-2019 05:05:15 >> Error creating the backup , not enough space on destination disk.
+
+03-10-2019 05:05:16 >> Error creating the backup , not enough space on destination disk.
+
+03-10-2019 05:05:17 >> Error in module MainMenu:Timer_RunBackup_Tick:Error > Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+03-10-2019 05:05:18 >> Backup Process Finished.
+03-10-2019 05:05:18 >> Updates the LastBackupDate configuration from 2019-10-03 17:04:47 to 2019-10-03 17:05:18
+
+03-10-2019 05:06:27 >> PST Backup utility open. 
+
+03-10-2019 05:06:27 >> Opening Log Object in the application. 
+
+
+03-10-2019 05:06:32 >> Creating a backup of C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+03-10-2019 05:06:32 >> Start manually backup process.
+03-10-2019 05:06:32 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook93-10032019050632" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:06:33 >> Compress file finished >C:\bk\LM4PCVIT01-Outook93-10032019050632.rar
+03-10-2019 05:06:33 >> Removing old backups > LM4PCVIT01-Outook93-10032019050418.rar
+03-10-2019 05:06:36 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+03-10-2019 05:06:36 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook55-10032019050636" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+03-10-2019 05:06:37 >> Compress file finished >C:\bk\LM4PCVIT01-Outook55-10032019050636.rar
+03-10-2019 05:06:37 >> Removing old backups > LM4PCVIT01-Outook55-10032019050422.rar
+03-10-2019 05:06:40 >> Error creating a backup, Error > not enough space in disk >C:\bk
+
+05-10-2019 05:07:02 >> Running Schedule backup.
+
+05-10-2019 05:07:05 >> Running backup of file >C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst
+05-10-2019 05:07:05 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook93-10052019050705" "C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst"
+
+05-10-2019 05:07:06 >> Compress file finished >C:\bk\LM4PCVIT01-Outook93-10052019050705.rar
+05-10-2019 05:07:06 >> Removing old backups > LM4PCVIT01-Outook93-10032019050437.rar
+05-10-2019 05:07:27 >> Creating a backup of C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst
+05-10-2019 05:07:27 >> Running rar command > C:\Program Files\WINRAR\\rar.exe -pE96MtfECbpbZYeHbkaUirh0XqTaWbiTf a "C:\bk\LM4PCVIT01-Outook55-10052019050727" "C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst"
+
+05-10-2019 05:07:28 >> Compress file finished >C:\bk\LM4PCVIT01-Outook55-10052019050727.rar
+05-10-2019 05:07:28 >> Removing old backups > LM4PCVIT01-Outook55-10032019050441.rar
+05-10-2019 05:07:31 >> Error creating backup, Error> not enough space in disk 
+
+04-10-2019 07:25:22 >> PST Backup utility open. 
+
+04-10-2019 07:25:22 >> Opening Log Object in the application. 
+
+
+04-10-2019 07:29:32 >> PST Backup utility open. 
+
+04-10-2019 07:29:32 >> Opening Log Object in the application. 
+
+
+04-10-2019 07:31:03 >> PST Backup utility open. 
+
+04-10-2019 07:31:03 >> Opening Log Object in the application. 
+
+
+04-10-2019 07:31:51 >> PST Backup utility open. 
+
+04-10-2019 07:31:51 >> Opening Log Object in the application. 
+
+
+04-10-2019 07:33:58 >> PST Backup utility open. 
+
+04-10-2019 07:33:58 >> Opening Log Object in the application. 
+
+
+04-10-2019 07:35:20 >> Run Process to update the application.
+
+04-10-2019 07:35:28 >> PST Backup utility open. 
+
+04-10-2019 07:35:28 >> Opening Log Object in the application. 
+
+

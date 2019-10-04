@@ -1,0 +1,10 @@
+TokenKey=E96MtfECbpbZYeHbkaUirh0XqTaWbiTf
+BackuptimeInDays=2
+BackupStarTime=01:00:00
+BackupDestination=C:\bk
+BackupSource=C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst|C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst|E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\smco\Outlook.pst
+LoggerPath=C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Release
+CompressorPath=C:\Program Files\WINRAR\
+NumBackupSave=2
+LastBackupDate=2019-10-05 17:07:31
+CheckForUpdates=true

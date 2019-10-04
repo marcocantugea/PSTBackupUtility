@@ -1,9 +1,0 @@
-TokenKey=E96MtfECbpbZYeHbkaUirh0XqTaWbiTf
-BackuptimeInDays=2
-BackupStarTime=01:00:00
-BackupDestination=C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug
-BackupSource=C:\Users\LM4PCVIT01\AppData\Local\Temp\test.pst|C:\Users\LM4PCVIT01\AppData\Roaming\Local Libraries\Local Documents\Outlook Files\Outlook.pst|C:\Users\LM4PCVIT01\Documents\Outlook Files\Outlook.pst|E:\toolpusher@grddm4.com - toolpusher.pst|E:\toolpusher@grm4.com - toolpusher.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$I1MAQS8.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IKKZ2YW.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ILOPFPV.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$IQHTQE0.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$ISZ700Q.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$R1MAQS8.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RKKZ2YW.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RLOPFPV.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RQHTQE0.pst|E:\$RECYCLE.BIN\S-1-5-21-95892007-3176789162-1169528769-1000\$RSZ700Q.pst|E:\bk\recover\Outlook.pst|E:\bk\recover\toolpusher@grm4.com - toolpusher.pst|E:\bk\source\toolpusher@grm4.com - toolpusher.pst|E:\bk\source\2018-12-2\Personal Folders(1) may 2014.pst|E:\bk\source\2018-8-2\Outlook.pst|E:\bk\source\2018-9-2\Outlelect interno.pst|E:\bk\source\smco\Outlook.pst
-LoggerPath=C:\Users\LM4PCVIT01\Desktop\PSTBackupUtility\PSTBackupUtility\aplication\PSTBackupUtilityApp\bin\Debug
-CompressorPath=C:\Program Files\WINRAR\
-NumBackupSave=2
-LastBackupDate=empty
